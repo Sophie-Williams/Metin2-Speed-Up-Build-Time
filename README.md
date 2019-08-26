@@ -15,7 +15,7 @@ Benchmark:
 
 Let's start:
 
-1- **Enable virtualization technology(SVM Mode). I enabled at bios. But you can do this whit different ways:**
+1- **Enable virtualization technology(SVM Mode). I enabled at bios. But you can do this with different ways:**
 https://www.wikihow.tech/Enable-Hardware-Virtualization
 [![Watch the video](https://img.youtube.com/vi/7J42Y_iE8bs/maxresdefault.jpg)](https://www.youtube.com/watch?v=7J42Y_iE8bs) 
 
